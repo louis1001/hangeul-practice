@@ -1,0 +1,19 @@
+
+:root {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    margin-block: 5rem
+}
+
+.jamo-item {
+    padding: 5px 10px;
+    margin-inline: 5px;
+    display: inline-block;
+    overflow-x: scroll;
+    background: rgb(213, 213, 213);
+    border-radius: 3px;
+}
