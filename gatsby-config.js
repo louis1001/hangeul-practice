@@ -4,7 +4,8 @@
 module.exports = {
   siteMetadata: {
     title: `Hangeul Practice`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://louis1001.dev/hangeul`
   },
+  pathPrefix: "/hangeul",
   plugins: ["gatsby-plugin-sass"]
 };
