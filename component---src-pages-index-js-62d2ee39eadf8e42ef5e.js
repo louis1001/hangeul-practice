@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhangeul_practice=self.webpackChunkhangeul_practice||[]).push([[678],{6558:function(e,l,n){n.r(l),n.d(l,{Head:function(){return a}});var t=n(7294);l.default=()=>t.createElement("main",null,t.createElement("h1",null,"Hello, world"));const a=()=>t.createElement("title",null,"Home Page")}}]);
+//# sourceMappingURL=component---src-pages-index-js-62d2ee39eadf8e42ef5e.js.map
